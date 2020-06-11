@@ -12,7 +12,9 @@ The following packages are needed:
 - numpy
 - Pytorch >= 1.2.0 (and its dependencies)
 - Torchtext == 0.3.1
-- pytorch_transformers.
+- pytorch_transformers.      
+
+
 
 
 ### Training and Testing
